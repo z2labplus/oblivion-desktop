@@ -26,7 +26,7 @@ export const defaultSettings = {
     location: '',
     license: '',
     theme: 'light',
-    lang: 'fa',
+    lang: 'cn',
     systemTray: false,
     flag: 'xx',
     ipData: true,
